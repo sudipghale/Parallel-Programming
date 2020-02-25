@@ -1,6 +1,5 @@
 /*
     Name: Sudip Ghale
-    Id: 1001557881
     CSE-3320-001
     Lab-01
 */
