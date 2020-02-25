@@ -1,6 +1,5 @@
 /*
 SUDIP GHALE
-ID: 1001557881
 LAB: 02
 */
 
